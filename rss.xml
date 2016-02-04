@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Abby Crerie]]></title>
+        <description><![CDATA[Abby Crerie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 20:43:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is My TITLE</p>]]></description>
+            <link>undefined3354f377-7b50-417c-bbe5-709fd83e0117/index.html</link>
+            <guid isPermaLink="false">3354f377-7b50-417c-bbe5-709fd83e0117</guid>
+            <pubDate>Thu, 04 Feb 2016 20:42:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
